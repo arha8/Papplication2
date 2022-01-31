@@ -1,0 +1,1 @@
+<strong>Application is working</strong>
